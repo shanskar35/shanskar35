@@ -1,18 +1,58 @@
-<h1 align="center">Hi 👋, I'm Shanskar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# 👨‍💻 Hey there, I'm Shanskar Sarraf!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shanskar35&label=Profile%20views&color=0e75b6&style=flat" alt="shanskar35" /> </p>
+🎓 **Final Year Computer Science Engineering Student**  
+💡 Passionate about technology, problem-solving, and building innovative projects that make an impact.  
+🚀 Constantly exploring new tech, from **AI/ML** to **IoT** and **Full Stack Development**.
 
-- 📫 How to reach me **macsarraf12345@gmail.com**
+---
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1ET3mgouo70OEQijh24Rmy98FjjQtL0ts/edit?usp=sharing&ouid=116146897534402561935&rtpof=true&sd=true](https://docs.google.com/document/d/1ET3mgouo70OEQijh24Rmy98FjjQtL0ts/edit?usp=sharing&ouid=116146897534402561935&rtpof=true&sd=true)
+## 💫 About Me
+- 🌱 I’m currently learning **AI, Machine Learning, and Cloud Computing**
+- 🔭 I’m working on **IoT & Embedded Systems Projects (ESP32 + App Integration)**
+- 💬 Ask me about **C++, Java, Web Development, or IoT**
+- 🎯 Goal: To become a **Software Developer / Embedded Systems Engineer**
+- ⚡ Fun fact: I debug my code faster when coffee is involved ☕
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shanskar sarraf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shanskar sarraf" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## 🛠️ Tech Stack
+**💻 Languages:**  
+C | C++ | Java | Python | JavaScript | HTML | CSS  
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shanskar35&show_icons=true&locale=en&layout=compact" alt="shanskar35" /></p>
+**🧠 Core Concepts:**  
+Data Structures & Algorithms | DBMS | OOPs | Operating Systems | Computer Networks  
+
+**⚙️ Frameworks & Tools:**  
+React | Node.js | Express | Flask | MySQL | MongoDB  
+
+**🔗 Other Tools:**  
+Git | GitHub | VS Code | Postman | Figma | Arduino | ESP32  
+
+---
+
+## 🌟 Highlight Projects
+
+### 🚗 Bluetooth Controlled Car using ESP32  
+A smart car controlled via a custom mobile app (Java + C++) with Wi-Fi & Bluetooth capabilities.
+
+### 🧠 AI Chat Assistant  
+A personal chatbot built using Python and OpenAI API for interactive Q&A.
+
+### 🌐 Portfolio Website  
+A modern personal portfolio built with React and Tailwind CSS to showcase my projects and skills.
+
+### 🔒 Cybersecurity Awareness Tool  
+An interactive project promoting cybersecurity knowledge and safe online practices.
+
+---
+
+
+## 🤝 Connect With Me
+🌐 **Portfolio:** [yourportfolio.com](https://santu.com.np)  
+💼 **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/shanskar-sarraf-333245262)  
+📧 **Email:** macsarraf12345@gmail.com  
+
+---
+
+## 💬 Quote
+> “Code is like humor. When you have to explain it, it’s bad.” 😄
